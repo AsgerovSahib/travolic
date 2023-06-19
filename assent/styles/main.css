@@ -28,7 +28,7 @@ body {
 .nav ul li:first-child {
   margin-left: 30px;
 }
-.navbar a {
+ a {
   text-decoration: none;
   color: #000000;
 }
