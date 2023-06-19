@@ -1,0 +1,146 @@
+.about-us-head .big-box-1 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.about-us-head .us-head-text {
+  margin-top: 169px;
+  margin-right: 132px;
+}
+
+.about-us-head .box1 {
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height */
+
+  color: #1090cb;
+}
+.about-us-head .box-2 {
+  max-width: 565px;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 170%;
+  /* or 68px */
+
+  color: #252525;
+}
+.about-us-head .box-3 {
+  max-width: 463px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 175%;
+  /* or 32px */
+
+  color: #868686;
+}
+
+.about-us-head .us-head-img-2 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  position: relative;
+}
+
+/* us-body-text------------------ */
+.us-body-text {
+  margin-top: 220px;
+  padding-left: 123px;
+}
+
+.us-body-text .box-text-head {
+  margin-bottom: 48px;
+  max-width: 807px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 160%;
+  /* or 72px */
+
+  color: #1090cb;
+}
+.us-body-text .box-text-body {
+  max-width: 1014px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 200%;
+  /* or 40px */
+
+  color: #585858;
+}
+
+/* kodex ---------------------------  */
+.kodex {
+    margin-bottom: 110px;
+    box-sizing: border-box;
+  margin-top: 178px;
+  padding-left: 123px;
+  display: flex;
+  justify-content: space-between;
+}
+.kodex .purple-line {
+  background: #4628a4;
+  width: 54px;
+  height: 5px;
+}
+.kodex .kodex-head {
+  margin-top: 28px;
+  margin-bottom: 31px;
+  max-width: 499px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 160%;
+  /* or 48px */
+  color: #000000;
+}
+.kodex .kodex-body {
+  max-width: 478px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 200%;
+  /* or 40px */
+  color: #585858;
+}
+.kodex button {
+  margin-top: 71px;
+  width: 193px;
+  height: 51px;
+  background: #ffffff;
+  border: 1px solid #1090cb;
+  border-radius: 10px;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 204.3%;
+  /* identical to box height, or 33px */
+
+  color: #1090cb;
+}
+
+.kodex .kodex-right {
+  max-width: 600px;
+  background: #ffffff;
+  box-shadow: 0px 4px 124px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 65px 91px 95px 61px;
+}
+.kodex .kodex-right img {
+  margin-right: 22px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #1090cb;
+}
+.kodex .kodex-right div {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 177.9%;
+  /* or 44px */
+
+  text-align: center;
+  letter-spacing: 0.01em;
+
+  color: #2e0d64;
+}
